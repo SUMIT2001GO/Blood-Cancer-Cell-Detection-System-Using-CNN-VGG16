@@ -16,6 +16,9 @@ The model is essential because:
 ### Achievements:
 - **Accuracy**: Achieved a test accuracy of 99.76%, a notable improvement over prior models (94.76%).
 - **Model Deployment**: The model is deployed and accessible via a live web interface, making it easy for healthcare professionals to access and use the tool in real-time.
+- ![Screenshot 2024-11-06 212747](https://github.com/user-attachments/assets/102d5526-2472-45b9-a81a-217c7b611961)
+
+![Screenshot 2024-11-06 212755](https://github.com/user-attachments/assets/d7c262dc-2326-4f59-bd28-1e3dc35b575b)
 
 ### Future Objectives:
 - **Integration with Healthcare Systems**: The goal is to integrate this model into hospital management systems to assist doctors in diagnosing patients in real-time.
@@ -32,4 +35,25 @@ The model is essential because:
 1. Clone this repository:
    ```bash
    git clone https://github.com/SUMIT2001GO/Blood-Cancer-Cell-Detection-System-Using-CNN-VGG16.git
+
+### How to Add This to GitHub:
+1. Open your repository on GitHub.
+2. Click on the `Add file` dropdown and select `Create new file`.
+3. Name the file `README.md`.
+4. Paste the markdown content above into the file.
+5. Commit the changes.
+
+Once you commit, GitHub will automatically render this as a formatted page when you view it in the repository. Let me know if you need any changes!
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+
+- **EfficientNetB0**: For providing an efficient and powerful architecture for image classification tasks.
+- **Keras & TensorFlow**: For the deep learning framework used to train the model.
+- **OpenCV & NumPy**: For image preprocessing and data manipulation.
+- **Scikit-learn**: For providing the tools to evaluate model performance and generate classification reports and confusion matrices.
+- **Matplotlib & Seaborn**: For visualizing the results, including confusion matrices and performance metrics.
+- **Vercel**: For providing a platform to deploy and host the live web application.
+
 
