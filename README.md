@@ -44,9 +44,7 @@ The model is essential because:
 5. Commit the changes.
 
 Once you commit, GitHub will automatically render this as a formatted page when you view it in the repository. Let me know if you need any changes!
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgements
 
 - **EfficientNetB0**: For providing an efficient and powerful architecture for image classification tasks.
