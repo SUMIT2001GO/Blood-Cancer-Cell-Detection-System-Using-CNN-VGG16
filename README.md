@@ -30,6 +30,11 @@ The model is essential because:
 1. Visit the live web application: [Blood Cancer Cell Detection](https://hema-detect-website.vercel.app/)
 2. Upload blood cell images to be analyzed.
 3. The model will classify the cells and return the prediction (cancerous or non-cancerous) along with the confidence score.
+4. ![Screenshot 2024-11-06 213203](https://github.com/user-attachments/assets/f414c3c7-4223-40ef-aa43-b34279595998)
+5. ![Screenshot 2024-11-06 213234](https://github.com/user-attachments/assets/c4c11010-0c7e-4e22-b1a9-6a289814f2c0)
+6. ![Screenshot 2024-11-06 213250](https://github.com/user-attachments/assets/0bc17330-9397-4065-8a94-a82d335cc255)
+
+
 
 ## Installation & Setup
 1. Clone this repository:
