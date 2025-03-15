@@ -27,7 +27,7 @@ The model is essential because:
 - **Real-time Analysis**: Develop a real-time version of the model that can process and analyze blood samples during patient visits for immediate results.
 
 ## How to Use
-1. Visit the live web application: [Blood Cancer Cell Detection](https://hema-detect-website.vercel.app/)
+1. Visit the live web application: [Blood Cancer Cell Detection](https://hemadetectapp-group3.streamlit.app/)
 2. Upload blood cell images to be analyzed.
 3. The model will classify the cells and return the prediction (cancerous or non-cancerous) along with the confidence score.
 4. ![Screenshot 2024-11-06 213203](https://github.com/user-attachments/assets/f414c3c7-4223-40ef-aa43-b34279595998)
